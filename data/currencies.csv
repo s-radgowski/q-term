@@ -1,0 +1,439 @@
+Entity,Currency,Currency Code,Numeric Code,Minor Unit,Withdrawal Date,Flag
+AFGHANISTAN,Afghani,AFA,4,,2003-01,🇦🇫
+AFGHANISTAN,Afghani,AFN,971,2,,🇦🇫
+AFRICAN DEVELOPMENT BANK GROUP,ADB Unit of Account,XUA,965,-,,💰
+ÅLAND ISLANDS,Euro,EUR,978,2,,🇪🇺
+ÅLAND ISLANDS,Markka,FIM,246,,2002-03,🇫🇮
+ALBANIA,Old Lek,ALK,8,,1989-12,🇦🇱
+ALBANIA,Lek,ALL,8,2,,🇦🇱
+ALGERIA,Algerian Dinar,DZD,12,2,,🇩🇿
+AMERICAN SAMOA,US Dollar,USD,840,2,,🇺🇸
+ANDORRA,Andorran Peseta,ADP,20,,2003-07,🇦🇩
+ANDORRA,Spanish Peseta,ESP,724,,2002-03,🇪🇸
+ANDORRA,Euro,EUR,978,2,,🇪🇺
+ANDORRA,French Franc,FRF,250,,2002-03,🇫🇷
+ANGOLA,Kwanza,AOA,973,2,,🇦🇴
+ANGOLA,Kwanza,AOK,24,,1991-03,🇦🇴
+ANGOLA,New Kwanza,AON,24,,2000-02,🇦🇴
+ANGOLA,Kwanza Reajustado,AOR,982,,2000-02,🇦🇴
+ANGUILLA,East Caribbean Dollar,XCD,951,2,,🇦🇮
+ANTIGUA AND BARBUDA,East Caribbean Dollar,XCD,951,2,,🇦🇬
+ARGENTINA,Austral,ARA,32,,1992-01,🇦🇷
+ARGENTINA,Peso Argentino,ARP,32,,1985-07,🇦🇷
+ARGENTINA,Argentine Peso,ARS,32,2,,🇦🇷
+ARGENTINA,Peso,ARY,32,,1989 to 1990,🇦🇷
+ARMENIA,Armenian Dram,AMD,51,2,,🇦🇲
+ARMENIA,Russian Ruble,RUR,810,,1994-08,🇷🇺
+ARUBA,Aruban Florin,AWG,533,2,,🇦🇼
+AUSTRALIA,Australian Dollar,AUD,36,2,,🇦🇺
+AUSTRIA,Schilling,ATS,40,,2002-03,🇦🇹
+AUSTRIA,Euro,EUR,978,2,,🇪🇺
+AZERBAIJAN,Azerbaijan Manat,AYM,945,,2005-10,🇦🇿
+AZERBAIJAN,Azerbaijanian Manat,AZM,31,,2005-12,🇦🇿
+AZERBAIJAN,Azerbaijan Manat,AZN,944,2,,🇦🇿
+AZERBAIJAN,Russian Ruble,RUR,810,,1994-08,🇷🇺
+BAHAMAS,Bahamian Dollar,BSD,44,2,,🇧🇸
+BAHRAIN,Bahraini Dinar,BHD,48,3,,🇧🇭
+BANGLADESH,Taka,BDT,50,2,,🇧🇩
+BARBADOS,Barbados Dollar,BBD,52,2,,🇧🇧
+BELARUS,Belarusian Ruble,BYB,112,,2001-01,🇧🇾
+BELARUS,Belarusian Ruble,BYN,933,2,,🇧🇾
+BELARUS,Belarusian Ruble,BYR,974,,2017-01,🇧🇾
+BELARUS,Russian Ruble,RUR,810,,1994-06,🇷🇺
+BELGIUM,Convertible Franc,BEC,993,,1990-03,🇧🇪
+BELGIUM,Belgian Franc,BEF,56,,2002-03,🇧🇪
+BELGIUM,Financial Franc,BEL,992,,1990-03,🇧🇪
+BELGIUM,Euro,EUR,978,2,,🇪🇺
+BELIZE,Belize Dollar,BZD,84,2,,🇧🇿
+BENIN,CFA Franc BCEAO,XOF,952,0,,🇧🇯
+BERMUDA,Bermudian Dollar,BMD,60,2,,🇧🇲
+BHUTAN,Ngultrum,BTN,64,2,,🇧🇹
+BHUTAN,Indian Rupee,INR,356,2,,🇮🇳
+BOLIVIA,Boliviano,BOB,68,2,,🇧🇴
+BOLIVIA,Peso boliviano,BOP,68,,1987-02,🇧🇴
+BOLIVIA,Mvdol,BOV,984,2,,🇧🇴
+BONAIRE,US Dollar,USD,840,2,,🇺🇸
+BOSNIA AND HERZEGOVINA,Dinar,BAD,70,,1998-07,🇧🇦
+BOSNIA AND HERZEGOVINA,Convertible Mark,BAM,977,2,,🇧🇦
+BOTSWANA,Pula,BWP,72,2,,🇧🇼
+BOUVET ISLAND,Norwegian Krone,NOK,578,2,,🇳🇴
+BRAZIL,Cruzeiro,BRB,76,,1986-03,🇧🇷
+BRAZIL,Cruzado,BRC,76,,1989-02,🇧🇷
+BRAZIL,Cruzeiro,BRE,76,,1993-03,🇧🇷
+BRAZIL,Brazilian Real,BRL,986,2,,🇧🇷
+BRAZIL,New Cruzado,BRN,76,,1990-03,🇧🇷
+BRAZIL,Cruzeiro Real,BRR,987,,1994-07,🇧🇷
+BRITISH INDIAN OCEAN TERRITORY (THE),US Dollar,USD,840,2,,🇺🇸
+BRUNEI DARUSSALAM,Brunei Dollar,BND,96,2,,🇧🇳
+BULGARIA,Lev A/52,BGJ,100,,1989 to 1990,🇧🇬
+BULGARIA,Lev A/62,BGK,100,,1989 to 1990,🇧🇬
+BULGARIA,Lev,BGL,100,,2003-11,🇧🇬
+BULGARIA,Bulgarian Lev,BGN,975,2,,🇧🇬
+BURKINA FASO,CFA Franc BCEAO,XOF,952,0,,🇧🇫
+BURMA,Kyat,BUK,104,,1990-02,🇲🇲
+BURUNDI,Burundi Franc,BIF,108,0,,🇧🇮
+CABO VERDE,Cabo Verde Escudo,CVE,132,2,,🇨🇻
+CAMBODIA,Riel,KHR,116,2,,🇰🇭
+CAMEROON,CFA Franc BEAC,XAF,950,0,,🇨🇲
+CANADA,Canadian Dollar,CAD,124,2,,🇨🇦
+CAYMAN ISLANDS,Cayman Islands Dollar,KYD,136,2,,🇰🇾
+CENTRAL AFRICAN REPUBLIC,CFA Franc BEAC,XAF,950,0,,🇨🇫
+CHAD,CFA Franc BEAC,XAF,950,0,,🇹🇩
+CHILE,Unidad de Fomento,CLF,990,4,,🇨🇱
+CHILE,Chilean Peso,CLP,152,0,,🇨🇱
+CHINA,Renminbi,CNY,156,2,,🇨🇳
+CHRISTMAS ISLAND,Australian Dollar,AUD,36,2,,🇦🇺
+COCOS ISLANDS,Australian Dollar,AUD,36,2,,🇦🇺
+COLOMBIA,Colombian Peso,COP,170,2,,🇨🇴
+COLOMBIA,Unidad de Valor Real,COU,970,2,,🇨🇴
+COMOROS,Comorian Franc,KMF,174,0,,🇰🇲
+COOK ISLANDS,New Zealand Dollar,NZD,554,2,,🇳🇿
+COSTA RICA,Costa Rican Colon,CRC,188,2,,🇨🇷
+CÔTE D'IVOIRE,CFA Franc BCEAO,XOF,952,0,,🇨🇮
+CROATIA,Croatian Dinar,HRD,191,,1995-01,🇭🇷
+CROATIA,Kuna,HRK,191,2,,🇭🇷
+CROATIA,Croatian Kuna,HRK,191,,2015-06,🇭🇷
+CUBA,Peso Convertible,CUC,931,2,,🇨🇺
+CUBA,Cuban Peso,CUP,192,2,,🇨🇺
+CURAÇAO,Netherlands Antillean Guilder,ANG,532,2,,🇳🇱
+CYPRUS,Cyprus Pound,CYP,196,,2008-01,🇨🇾
+CYPRUS,Euro,EUR,978,2,,🇪🇺
+CZECHIA,Czech Koruna,CZK,203,2,,🇨🇿
+CZECHOSLOVAKIA,Krona A/53,CSJ,203,,1989 to 1990,🇨🇿
+CZECHOSLOVAKIA,Koruna,CSK,200,,1993-03,🇨🇿
+DEMOCRATIC REPUBLIC OF THE CONGO,Congolese Franc,CDF,976,2,,🇨🇩
+DENMARK,Danish Krone,DKK,208,2,,🇩🇰
+DJIBOUTI,Djibouti Franc,DJF,262,0,,🇩🇯
+DOMINICA,East Caribbean Dollar,XCD,951,2,,🇩🇲
+DOMINICAN REPUBLIC,Dominican Peso,DOP,214,2,,🇩🇴
+ECUADOR,Sucre,ECS,218,,2000-09,🇪🇨
+ECUADOR,Unidad de Valor Constante (UVC),ECV,983,,2000-09,🇪🇨
+ECUADOR,US Dollar,USD,840,2,,🇺🇸
+EGYPT,Egyptian Pound,EGP,818,2,,🇪🇬
+EL SALVADOR,El Salvador Colon,SVC,222,2,,🇸🇻
+EL SALVADOR,US Dollar,USD,840,2,,🇺🇸
+EQUATORIAL GUINEA,Ekwele,GQE,226,,1986-06,🇬🇶
+EQUATORIAL GUINEA,CFA Franc BEAC,XAF,950,0,,🇬🇶
+ERITREA,Nakfa,ERN,232,2,,🇪🇷
+ESTONIA,Kroon,EEK,233,,2011-01,🇪🇪
+ESTONIA,Euro,EUR,978,2,,🇪🇺
+ESWATINI,Lilangeni,SZL,748,2,,🇸🇿
+ETHIOPIA,Ethiopian Birr,ETB,230,2,,🇪🇹
+EUROPEAN MONETARY CO-OPERATION FUND (EMCF),European Currency Unit (E.C.U),XEU,954,,1999-01,🇪🇺
+EUROPEAN UNION,Euro,EUR,978,2,,🇪🇺
+FALKLAND ISLANDS,Falkland Islands Pound,FKP,238,2,,🇫🇰
+FAROE ISLANDS,Danish Krone,DKK,208,2,,🇩🇰
+FIJI,Fiji Dollar,FJD,242,2,,🇫🇯
+FINLAND,Euro,EUR,978,2,,🇪🇺
+FINLAND,Markka,FIM,246,,2002-03,🇫🇮
+FRANCE,Euro,EUR,978,2,,🇪🇺
+FRANCE,French Franc,FRF,250,,2002-03,🇫🇷
+FRENCH GUIANA,Euro,EUR,978,2,,🇪🇺
+FRENCH GUIANA,French Franc,FRF,250,,2002-03,🇫🇷
+FRENCH POLYNESIA,CFP Franc,XPF,953,0,,🇫🇷
+FRENCH SOUTHERN TERRITORIES,Euro,EUR,978,2,,🇪🇺
+FRENCH SOUTHERN TERRITORIES,French Franc,FRF,250,,2002-03,🇫🇷
+GABON,CFA Franc BEAC,XAF,950,0,,🇬🇦
+GAMBIA,Dalasi,GMD,270,2,,🇬🇲
+GEORGIA,Georgian Coupon,GEK,268,,1995-10,🇬🇪
+GEORGIA,Lari,GEL,981,2,,🇬🇪
+GEORGIA,Russian Ruble,RUR,810,,1994-04,🇷🇺
+GERMAN DEMOCRATIC REPUBLIC,Mark der DDR,DDM,278,,1990-07 to 1990-09,🇩🇪
+GERMANY,Deutsche Mark,DEM,276,,2002-03,🇩🇪
+GERMANY,Euro,EUR,978,2,,🇪🇺
+GHANA,Cedi,GHC,288,,2008-01,🇬🇭
+GHANA,Ghana Cedi,GHP,939,,2007-06,🇬🇭
+GHANA,Ghana Cedi,GHS,936,2,,🇬🇭
+GIBRALTAR,Gibraltar Pound,GIP,292,2,,🇬🇧
+GREECE,Euro,EUR,978,2,,🇪🇺
+GREECE,Drachma,GRD,300,,2002-03,🇬🇷
+GREENLAND,Danish Krone,DKK,208,2,,🇩🇰
+GRENADA,East Caribbean Dollar,XCD,951,2,,🇬🇩
+GUADELOUPE,Euro,EUR,978,2,,🇪🇺
+GUADELOUPE,French Franc,FRF,250,,2002-03,🇫🇷
+GUAM,US Dollar,USD,840,2,,🇺🇸
+GUATEMALA,Quetzal,GTQ,320,2,,🇬🇹
+GUERNSEY,Pound Sterling,GBP,826,2,,🇬🇧
+GUINEA,Syli,GNE,324,,1989-12,🇬🇳
+GUINEA,Guinean Franc,GNF,324,0,,🇬🇳
+GUINEA,Syli,GNS,324,,1986-02,🇬🇳
+GUINEA-BISSAU,Guinea Escudo,GWE,624,,1978 to 1981,🇬🇼
+GUINEA-BISSAU,Guinea-Bissau Peso,GWP,624,,1997-05,🇬🇼
+GUINEA-BISSAU,CFA Franc BCEAO,XOF,952,0,,🇬🇼
+GUYANA,Guyana Dollar,GYD,328,2,,🇬🇾
+HAITI,Gourde,HTG,332,2,,🇭🇹
+HAITI,US Dollar,USD,840,2,,🇺🇸
+HEARD ISLAND AND McDONALD ISLANDS,Australian Dollar,AUD,36,2,,🇦🇺
+HONDURAS,Lempira,HNL,340,2,,🇭🇳
+HONG KONG,Hong Kong Dollar,HKD,344,2,,🇭🇰
+HUNGARY,Forint,HUF,348,2,,🇭🇺
+ICELAND,Old Krona,ISJ,352,,1989 to 1990,🇮🇸
+ICELAND,Iceland Krona,ISK,352,0,,🇮🇸
+INDIA,Indian Rupee,INR,356,2,,🇮🇳
+INDONESIA,Rupiah,IDR,360,2,,🇮🇩
+INTERNATIONAL MONETARY FUND,SDR (Special Drawing Right),XDR,960,-,,💰
+IRAN,Iranian Rial,IRR,364,2,,🇮🇷
+IRAQ,Iraqi Dinar,IQD,368,3,,🇮🇶
+IRELAND,Euro,EUR,978,2,,🇪🇺
+IRELAND,Irish Pound,IEP,372,,2002-03,🇮🇪
+ISLE OF MAN,Pound Sterling,GBP,826,2,,🇬🇧
+ISRAEL,Pound,ILP,376,,1978 to 1981,🇮🇱
+ISRAEL,Old Shekel,ILR,376,,1989 to 1990,🇮🇱
+ISRAEL,New Israeli Sheqel,ILS,376,2,,🇮🇱
+ITALY,Euro,EUR,978,2,,🇪🇺
+ITALY,Italian Lira,ITL,380,,2002-03,🇮🇹
+JAMAICA,Jamaican Dollar,JMD,388,2,,🇯🇲
+JAPAN,Yen,JPY,392,0,,🇯🇵
+JERSEY,Pound Sterling,GBP,826,2,,🇬🇧
+JORDAN,Jordanian Dinar,JOD,400,3,,🇯🇴
+KAZAKHSTAN,Tenge,KZT,398,2,,🇰🇿
+KAZAKHSTAN,Russian Ruble,RUR,810,,1994-05,🇷🇺
+KENYA,Kenyan Shilling,KES,404,2,,🇰🇪
+KIRIBATI,Australian Dollar,AUD,36,2,,🇦🇺
+KUWAIT,Kuwaiti Dinar,KWD,414,3,,🇰🇼
+KYRGYZSTAN,Som,KGS,417,2,,🇰🇬
+KYRGYZSTAN,Russian Ruble,RUR,810,,1993-01,🇷🇺
+LAO,Pathet Lao Kip,LAJ,418,,1979-12,🇱🇦
+LAOS,Lao Kip,LAK,418,2,,🇱🇦
+LATVIA,Euro,EUR,978,2,,🇪🇺
+LATVIA,Latvian Lats,LVL,428,,2014-01,🇱🇻
+LATVIA,Latvian Ruble,LVR,428,,1994-12,🇱🇻
+LEBANON,Lebanese Pound,LBP,422,2,,🇱🇧
+LESOTHO,Loti,LSL,426,2,,🇱🇸
+LESOTHO,Loti,LSM,426,,1985-05,🇱🇸
+LESOTHO,Financial Rand,ZAL,991,,1995-03,🇿🇦
+LESOTHO,Rand,ZAR,710,2,,🇿🇦
+LIBERIA,Liberian Dollar,LRD,430,2,,🇱🇷
+LIBYA,Libyan Dinar,LYD,434,3,,🇱🇾
+LIECHTENSTEIN,Swiss Franc,CHF,756,2,,🇨🇭
+LITHUANIA,Euro,EUR,978,2,,🇪🇺
+LITHUANIA,Lithuanian Litas,LTL,440,,2014-12,🇱🇹
+LITHUANIA,Talonas,LTT,440,,1993-07,🇱🇹
+LUXEMBOURG,Euro,EUR,978,2,,🇪🇺
+LUXEMBOURG,Luxembourg Convertible Franc,LUC,989,,1990-03,🇱🇺
+LUXEMBOURG,Luxembourg Franc,LUF,442,,2002-03,🇱🇺
+LUXEMBOURG,Luxembourg Financial Franc,LUL,988,,1990-03,🇱🇺
+MACAO,Pataca,MOP,446,2,,🇲🇴
+MADAGASCAR,Malagasy Ariary,MGA,969,2,,🇲🇬
+MADAGASCAR,Malagasy Franc,MGF,450,,2004-12,🇲🇬
+MALAWI,Malawi Kwacha,MWK,454,2,,🇲🇼
+MALAWI,Kwacha,MWK,454,,2016-02,🇲🇼
+MALAYSIA,Malaysian Ringgit,MYR,458,2,,🇲🇾
+MALDIVES,Maldive Rupee,MVQ,462,,1989-12,🇲🇻
+MALDIVES,Rufiyaa,MVR,462,2,,🇲🇻
+MALI,Mali Franc,MLF,466,,1984-11,🇲🇱
+MALI,CFA Franc BCEAO,XOF,952,0,,🇲🇱
+MALTA,Euro,EUR,978,2,,🇪🇺
+MALTA,Maltese Lira,MTL,470,,2008-01,🇲🇹
+MALTA,Maltese Pound,MTP,470,,1983-06,🇲🇹
+MARSHALL ISLANDS,US Dollar,USD,840,2,,🇺🇸
+MARTINIQUE,Euro,EUR,978,2,,🇪🇺
+MARTINIQUE,French Franc,FRF,250,,2002-03,🇫🇷
+MAURITANIA,Ouguiya,MRO,478,,2017-12,🇲🇷
+MAURITANIA,Ouguiya,MRU,929,2,,🇲🇷
+MAURITIUS,Mauritius Rupee,MUR,480,2,,🇲🇺
+MAYOTTE,Euro,EUR,978,2,,🇪🇺
+MAYOTTE,French Franc,FRF,250,,2002-03,🇫🇷
+MEXICO,Mexican Peso,MXN,484,2,,🇲🇽
+MEXICO,Mexican Peso,MXP,484,,1993-01,🇲🇽
+MEXICO,Mexican Unidad de Inversion (UDI),MXV,979,2,,🇲🇽
+MICRONESIA,US Dollar,USD,840,2,,🇺🇸
+MOLDOVA,Moldovan Leu,MDL,498,2,,🇲🇩
+MOLDOVA,Russian Ruble,RUR,810,,1993-12,🇷🇺
+MONACO,Euro,EUR,978,2,,🇪🇺
+MONACO,French Franc,FRF,250,,2002-03,🇫🇷
+MONGOLIA,Tugrik,MNT,496,2,,🇲🇳
+MONTENEGRO,Euro,EUR,978,2,,🇪🇺
+MONTSERRAT,East Caribbean Dollar,XCD,951,2,,🇲🇸
+MOROCCO,Moroccan Dirham,MAD,504,2,,🇲🇦
+MOZAMBIQUE,Mozambique Escudo,MZE,508,,1978 to 1981,🇲🇿
+MOZAMBIQUE,Mozambique Metical,MZM,508,,2006-06,🇲🇿
+MOZAMBIQUE,Mozambique Metical,MZN,943,2,,🇲🇿
+MYANMAR,Kyat,MMK,104,2,,🇲🇲
+NAMIBIA,Namibia Dollar,NAD,516,2,,🇳🇦
+NAMIBIA,Rand,ZAR,710,2,,🇿🇦
+NAURU,Australian Dollar,AUD,36,2,,🇦🇺
+NEPAL,Nepalese Rupee,NPR,524,2,,🇳🇵
+NETHERLANDS,Euro,EUR,978,2,,🇪🇺
+NETHERLANDS,Netherlands Guilder,NLG,528,,2002-03,🇳🇱
+NETHERLANDS ANTILLES,Netherlands Antillean Guilder,ANG,532,,2010-10,🇳🇱
+NEW CALEDONIA,CFP Franc,XPF,953,0,,🇫🇷
+NEW ZEALAND,New Zealand Dollar,NZD,554,2,,🇳🇿
+NICARAGUA,Cordoba,NIC,558,,1990-10,🇳🇮
+NICARAGUA,Cordoba Oro,NIO,558,2,,🇳🇮
+NIGER,CFA Franc BCEAO,XOF,952,0,,🇳🇪
+NIGERIA,Naira,NGN,566,2,,🇳🇬
+NIUE,New Zealand Dollar,NZD,554,2,,🇳🇿
+NORFOLK ISLAND,Australian Dollar,AUD,36,2,,🇦🇺
+NORTH KOREA,North Korean Won,KPW,408,2,,🇰🇵
+NORTH MACEDONIA,Denar,MKD,807,2,,🇲🇰
+NORTHERN MARIANA ISLANDS,US Dollar,USD,840,2,,🇺🇸
+NORWAY,Norwegian Krone,NOK,578,2,,🇳🇴
+OMAN,Rial Omani,OMR,512,3,,🇴🇲
+PAKISTAN,Pakistan Rupee,PKR,586,2,,🇵🇰
+PALAU,US Dollar,USD,840,2,,🇺🇸
+PANAMA,Balboa,PAB,590,2,,🇵🇦
+PANAMA,US Dollar,USD,840,2,,🇺🇸
+PAPUA NEW GUINEA,Kina,PGK,598,2,,🇵🇬
+PARAGUAY,Guarani,PYG,600,0,,🇵🇾
+PERU,Sol,PEH,604,,1989 to 1990,🇵🇪
+PERU,Inti,PEI,604,,1991-07,🇵🇪
+PERU,Sol,PEN,604,2,,🇵🇪
+PERU,Nuevo Sol ,PEN,604,,2015-12,🇵🇪
+PERU,Sol,PES,604,,1986-02,🇵🇪
+PHILIPPINES,Philippine Peso,PHP,608,2,,🇵🇭
+PITCAIRN,New Zealand Dollar,NZD,554,2,,🇳🇿
+POLAND,Złoty,PLN,985,2,,🇵🇱
+POLAND,Złoty,PLZ,616,,1997-01,🇵🇱
+PORTUGAL,Euro,EUR,978,2,,🇪🇺
+PORTUGAL,Portuguese Escudo,PTE,620,,2002-03,🇵🇹
+PUERTO RICO,US Dollar,USD,840,2,,🇺🇸
+QATAR,Qatari Rial,QAR,634,2,,🇶🇦
+REPUBLIC OF CONGO,CFA Franc BEAC,XAF,950,0,,🇨🇬
+RÉUNION,Euro,EUR,978,2,,🇪🇺
+RÉUNION,French Franc,FRF,250,,2002-03,🇫🇷
+ROMANIA,Leu A/52,ROK,642,,1989 to 1990,🇷🇴
+ROMANIA,Old Leu,ROL,642,,2005-06,🇷🇴
+ROMANIA,Romanian Leu,RON,946,2,,🇷🇴
+ROMANIA,New Romanian Leu ,RON,946,,2015-06,🇷🇴
+RUSSIAN FEDERATION,Russian Ruble,RUB,643,2,,🇷🇺
+RUSSIAN FEDERATION,Russian Ruble,RUR,810,,2004-01,🇷🇺
+RWANDA,Rwanda Franc,RWF,646,0,,🇷🇼
+SAINT BARTHÉLEMY,Euro,EUR,978,2,,🇪🇺
+SAINT HELENA,Saint Helena Pound,SHP,654,2,,🇸🇭
+SAINT KITTS AND NEVIS,East Caribbean Dollar,XCD,951,2,,🇰🇳
+SAINT LUCIA,East Caribbean Dollar,XCD,951,2,,🇱🇨
+SAINT MARTIN,French Franc,FRF,250,,1999-01,🇫🇷
+SAINT MARTIN (FRENCH PART),Euro,EUR,978,2,,🇪🇺
+SAINT PIERRE AND MIQUELON,Euro,EUR,978,2,,🇪🇺
+SAINT PIERRE AND MIQUELON,French Franc,FRF,250,,2002-03,🇫🇷
+SAINT VINCENT AND THE GRENADINES,East Caribbean Dollar,XCD,951,2,,🇻🇨
+SAINT-BARTHÉLEMY,French Franc,FRF,250,,1999-01,🇫🇷
+SAMOA,Tala,WST,882,2,,🇼🇸
+SAN MARINO,Euro,EUR,978,2,,🇪🇺
+SAN MARINO,Italian Lira,ITL,380,,2002-03,🇮🇹
+SAO TOME AND PRINCIPE,Dobra,STD,678,,2017-12,🇸🇹
+SAO TOME AND PRINCIPE,Dobra,STN,930,2,,🇸🇹
+SAUDI ARABIA,Saudi Riyal,SAR,682,2,,🇸🇦
+SENEGAL,CFA Franc BCEAO,XOF,952,0,,🇸🇳
+SERBIA,Serbian Dinar,RSD,941,2,,🇷🇸
+SERBIA AND MONTENEGRO,Serbian Dinar,CSD,891,,2006-10,🇷🇸
+SERBIA AND MONTENEGRO,Euro,EUR,978,,2006-10,🇪🇺
+SEYCHELLES,Seychelles Rupee,SCR,690,2,,🇸🇨
+SIERRA LEONE,Leone,SLL,694,2,,🇸🇱
+SINGAPORE,Singapore Dollar,SGD,702,2,,🇸🇬
+SINT MAARTEN (DUTCH PART),Netherlands Antillean Guilder,ANG,532,2,,🇳🇱
+"SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS ""SUCRE""",Sucre,XSU,994,-,,💰
+SLOVAKIA,Euro,EUR,978,2,,🇪🇺
+SLOVAKIA,Slovak Koruna,SKK,703,,2009-01,🇸🇰
+SLOVENIA,Euro,EUR,978,2,,🇪🇺
+SLOVENIA,Tolar,SIT,705,,2007-01,🇸🇮
+SOLOMON ISLANDS,Solomon Islands Dollar,SBD,90,2,,🇸🇧
+SOMALIA,Somali Shilling,SOS,706,2,,🇸🇴
+SOUTH AFRICA,Financial Rand,ZAL,991,,1995-03,🇿🇦
+SOUTH AFRICA,Rand,ZAR,710,2,,🇿🇦
+SOUTH KOREA,Korean Republic Won,KRW,410,0,,🇰🇷
+SOUTH SUDAN,Sudanese Pound,SDG,938,,2012-09,🇸🇸
+SOUTH SUDAN,South Sudanese Pound,SSP,728,2,,🇸🇸
+SOUTHERN RHODESIA,Rhodesian Dollar,RHD,716,,1978 to 1981,🇿🇼
+SPAIN,Spanish Peseta,ESA,996,,1978 to 1981,🇪🇸
+SPAIN,A Account (convertible Peseta Account),ESB,995,,1994-12,🇪🇸
+SPAIN,Spanish Peseta,ESP,724,,2002-03,🇪🇸
+SPAIN,Euro,EUR,978,2,,🇪🇺
+SRI LANKA,Sri Lanka Rupee,LKR,144,2,,🇱🇰
+SUDAN,Sudanese Dinar,SDD,736,,2007-07,🇸🇩
+SUDAN,Sudanese Pound,SDG,938,2,,🇸🇩
+SUDAN,Sudanese Pound,SDP,736,,1998-06,🇸🇩
+SURINAME,Surinam Dollar,SRD,968,2,,🇸🇷
+SURINAME,Surinam Guilder,SRG,740,,2003-12,🇸🇷
+SVALBARD AND JAN MAYEN,Norwegian Krone,NOK,578,2,,🇳🇴
+SWAZILAND,Lilangeni,SZL,748,,2018-08,🇸🇿
+SWEDEN,Swedish Krona,SEK,752,2,,🇸🇪
+SWITZERLAND,WIR Franc (for electronic),CHC,948,,2004-11,🇨🇭
+SWITZERLAND,WIR Euro,CHE,947,2,,🇪🇺
+SWITZERLAND,Swiss Franc,CHF,756,2,,🇨🇭
+SWITZERLAND,WIR Franc,CHW,948,2,,🇨🇭
+SYRIAN ARAB REPUBLIC,Syrian Pound,SYP,760,2,,🇸🇾
+TAIWAN,New Taiwan Dollar,NTD,901,2,,🇹🇼
+TAIWAN,New Taiwan Dollar,TWD,901,2,,🇹🇼
+TAJIKISTAN,Russian Ruble,RUR,810,,1995-05,🇷🇺
+TAJIKISTAN,Tajik Ruble,TJR,762,,2001-04,🇹🇯
+TAJIKISTAN,Somoni,TJS,972,2,,🇹🇯
+TANZANIA,Tanzanian Shilling,TZS,834,2,,🇹🇿
+THAILAND,Baht,THB,764,2,,🇹🇭
+TIMOR-LESTE,Rupiah,IDR,360,,2002-07,🇮🇩
+TIMOR-LESTE,Timor Escudo,TPE,626,,2002-11,🇹🇱
+TIMOR-LESTE,US Dollar,USD,840,2,,🇺🇸
+TOGO,CFA Franc BCEAO,XOF,952,0,,🇹🇬
+TOKELAU,New Zealand Dollar,NZD,554,2,,🇳🇿
+TONGA,Pa'anga,TOP,776,2,,🇹🇴
+TRINIDAD AND TOBAGO,Trinidad and Tobago Dollar,TTD,780,2,,🇹🇹
+TUNISIA,Tunisian Dinar,TND,788,3,,🇹🇳
+TURKEY,Old Turkish Lira,TRL,792,,2005-12,🇹🇷
+TURKEY,Turkish Lira,TRY,949,2,,🇹🇷
+TURKEY,New Turkish Lira,TRY,949,,2009-01,🇹🇷
+TURKMENISTAN,Russian Ruble,RUR,810,,1993-10,🇷🇺
+TURKMENISTAN,Turkmenistan Manat,TMM,795,,2009-01,🇹🇲
+TURKMENISTAN,Turkmenistan New Manat,TMT,934,2,,🇹🇲
+TURKS AND CAICOS ISLANDS (THE),US Dollar,USD,840,2,,🇺🇸
+TUVALU,Australian Dollar,AUD,36,2,,🇦🇺
+UGANDA,Uganda Shilling,UGS,800,,1987-05,🇺🇬
+UGANDA,Old Shilling,UGW,800,,1989 to 1990,🇺🇬
+UGANDA,Uganda Shilling,UGX,800,0,,🇺🇬
+UKRAINE,Hryvnia,UAH,980,2,,🇺🇦
+UKRAINE,Karbovanet,UAK,804,,1996-09,🇺🇦
+UNION OF SOVIET SOCIALIST REPUBLICS,Rouble,SUR,810,,1990-12,🇷🇺
+UNITED ARAB EMIRATES,UAE Dirham,AED,784,2,,🇦🇪
+UNITED KINGDOM,Pound Sterling,GBP,826,2,,🇬🇧
+UNITED STATES,US Dollar (Same day),USS,998,,2014-03,🇺🇸
+UNITED STATES MINOR OUTLYING ISLANDS,US Dollar,USD,840,2,,🇺🇸
+UNITED STATES OF AMERICA,US Dollar,USD,840,2,,🇺🇸
+UNITED STATES OF AMERICA,US Dollar (Next day),USN,997,2,,🇺🇸
+URUGUAY,Uruguay Peso en Unidades Indexadas (UI),UYI,940,0,,🇺🇾
+URUGUAY,Old Uruguay Peso,UYN,858,,1989-12,🇺🇾
+URUGUAY,Uruguayan Peso,UYP,858,,1993-03,🇺🇾
+URUGUAY,Peso Uruguayo,UYU,858,2,,🇺🇾
+URUGUAY,Unidad Previsional,UYW,927,4,,🇺🇾
+UZBEKISTAN,Russian Ruble,RUR,810,,1994-07,🇷🇺
+UZBEKISTAN,Uzbekistan Sum,UZS,860,2,,🇺🇿
+VANUATU,Vatu,VUV,548,0,,🇻🇺
+VATICAN CITY,Euro,EUR,978,2,,🇪🇺
+VATICAN CITY,Italian Lira,ITL,380,,2002-03,🇮🇹
+VENEZUELA,Bolivar,VEB,862,,2008-01,🇻🇪
+VENEZUELA,Bolivar Fuerte,VEF,937,,2011-12,🇻🇪
+VENEZUELA,Bolívar Soberano,VES,928,2,,🇻🇪
+VENEZUELA (BOLIVARIAN REPUBLIC OF),Bolivar,VEF,937,,2016-02,🇻🇪
+VENEZUELA (BOLIVARIAN REPUBLIC OF),Bolívar,VEF,937,,2018-08,🇻🇪
+VIETNAM,Old Dong,VNC,704,,1989-1990,🇻🇳
+VIETNAM,Dong,VND,704,0,,🇻🇳
+VIRGIN ISLANDS,US Dollar,USD,840,2,,🇺🇸
+WALLIS AND FUTUNA,CFP Franc,XPF,953,0,,🇫🇷
+WESTERN SAHARA,Moroccan Dirham,MAD,504,2,,🇲🇦
+YEMEN,Yemeni Dinar,YDD,720,,1991-09,🇾🇪
+YEMEN,Yemeni Rial,YER,886,2,,🇾🇪
+YUGOSLAVIA,New Yugoslavian Dinar,YUD,890,,1990-01,🇷🇸
+YUGOSLAVIA,New Dinar,YUM,891,,2003-07,🇷🇸
+YUGOSLAVIA,Yugoslavian Dinar,YUN,890,,1995-11,🇷🇸
+ZAIRE,New Zaire,ZRN,180,,1999-06,🇨🇩
+ZAIRE,Zaire,ZRZ,180,,1994-02,🇨🇩
+ZAMBIA,Zambian Kwacha,ZMK,894,,2012-12,🇿🇲
+ZAMBIA,Zambian Kwacha,ZMW,967,2,,🇿🇲
+ZIMBABWE,Rhodesian Dollar,ZWC,716,,1989-12,🇿🇼
+ZIMBABWE,Zimbabwe Dollar (old),ZWD,716,,2006-08,🇿🇼
+ZIMBABWE,Zimbabwe Dollar,ZWD,716,,2008-08,🇿🇼
+ZIMBABWE,Zimbabwe Dollar,ZWL,932,2,,🇿🇼
+ZIMBABWE,Zimbabwe Dollar (new),ZWN,942,,2006-09,🇿🇼
+ZIMBABWE,Zimbabwe Dollar,ZWR,935,,2009-06,🇿🇼
+ZZ01_Bond Markets Unit European_EURCO,Bond Markets Unit European Composite Unit (EURCO),XBA,955,-,,🇪🇺
+ZZ01_Gold-Franc,Gold-Franc,XFO,,,2006-10,🥇
+ZZ02_Bond Markets Unit European_EMU-6,Bond Markets Unit European Monetary Unit (E.M.U.-6),XBB,956,-,,🇪🇺
+ZZ02_RINET Funds Code,RINET Funds Code,XRE,,,1999-11,💰
+ZZ03_Bond Markets Unit European_EUA-9,Bond Markets Unit European Unit of Account 9 (E.U.A.-9),XBC,957,-,,🇪🇺
+ZZ04_Bond Markets Unit European_EUA-17,Bond Markets Unit European Unit of Account 17 (E.U.A.-17),XBD,958,-,,🇪🇺
+ZZ05_UIC-Franc,UIC-Franc,XFU,,,2013-11,💰
+ZZ06_Testing_Code,Codes specifically reserved for testing purposes,XTS,963,-,,💰
+ZZ07_No_Currency,The codes assigned for transactions where no currency is involved,XXX,999,-,,💰
+ZZ08_Gold,Gold,XAU,959,-,,🥇
+ZZ09_Palladium,Palladium,XPD,964,-,,💰
+ZZ10_Platinum,Platinum,XPT,962,-,,💰
+ZZ11_Silver,Silver,XAG,961,-,,🥈

@@ -1,0 +1,196 @@
+Country,Capital,Official Name,Local Name,Local Official Name,Currency,Currency Code,Demonym,Alpha-2 Code,Alpha-3 Code,Numeric Code,Calling Code,Driving Side,Languages,Flag Emoji,ISO
+Afghanistan,Kabul,Islamic Emirate of Afghanistan,افغانستان,د افغانستان اسلامي امارت,Afghani,AFN,Afghan,AF,AFG,4,93,Right,Dari|Pashto,🇦🇫,ISO 3166-2:AF
+Albania,Tirana,Republic of Albania,Shqipëria,Republika e Shqipërisë,Lek,ALL,Albanian,AL,ALB,8,355,Right,Albanian,🇦🇱,ISO 3166-2:AL
+Algeria,Algiers,People's Democratic Republic of Algeria,الجزائر,الجمهورية الجزائرية الديمقراطية الشعبية,Algerian Dinar,DZD,Algerian,DZ,DZA,12,213,Right,Arabic|Berber,🇩🇿,ISO 3166-2:DZ
+Andorra,Andorra la Vella,Principality of Andorra,,Principat d’Andorra,Euro,EUR,Andorran,AD,AND,20,376,Right,Catalan,🇦🇩,ISO 3166-2:AD
+Angola,Luanda,Republic of Angola,,República de Angola,Kwanza,AOA,Angolan,AO,AGO,24,244,Right,Portuguese|Kimbundu|Umbundu|Chokwe|Kikongo,🇦🇴,ISO 3166-2:AO
+Antigua and Barbuda,St. John’s,,,,East Caribbean Dollar,XCD,Antiguan|Barbudan,AG,ATG,28,+1-268,Left,English|Creole,🇦🇬,ISO 3166-2:AG
+Argentina,Buenos Aires,Argentine Republic,,República Argentina,Argentine Peso,ARS,Argentine|Argentinian,AR,ARG,32,54,Right,Spanish,🇦🇷,ISO 3166-2:AR
+Armenia,Yerevan,Republic of Armenia,Հայաստան,Հայաստանի Հանրապետություն ,Dram,AMD,Armenian,AM,ARM,51,374,Right,Armenian,🇦🇲,ISO 3166-2:AM
+Australia,Canberra,Commonwealth of Australia,,,Australian Dollar,AUD,Australian,AU,AUS,36,61,Left,English,🇦🇺,ISO 3166-2:AU
+Austria,Vienna,Republic of Austria,Österreich,Republik Österreich,Euro,EUR,Austrian,AT,AUT,40,43,Right,German,🇦🇹,ISO 3166-2:AT
+Azerbaijan,Baku,Republic of Azerbaijan,Azərbaycan,Azərbaycan Respublikası ,Manat,AZN,Azerbaijani|Azeri,AZ,AZE,31,994,Right,Azerbaijani,🇦🇿,ISO 3166-2:AZ
+Bahamas,Nassau,Commonwealth of The Bahamas,,,Bahamian Dollar,BSD,Bahamian,BS,BHS,44,+1-242,Left,English|Creole,🇧🇸,ISO 3166-2:BS
+Bahrain,Manama,Kingdom of Bahrain,البحرين,مملكة البحرين,Bahraini Dinar,BHD,Bahraini,BH,BHR,48,973,Right,Arabic|English,🇧🇭,ISO 3166-2:BH
+Bangladesh,Dhaka,People's Republic of Bangladesh,বাংলাদেশ,গণপ্রজাতন্ত্রী বাংলাদেশ,Taka,BDT,Bangladeshi,BD,BGD,50,880,Left,Bengali,🇧🇩,ISO 3166-2:BD
+Barbados,Bridgetown,,,,Barbadian Dollar,BBD,Barbadian,BB,BRB,52,+1-246,Left,English,🇧🇧,ISO 3166-2:BB
+Belarus,Minsk,Republic of Belarus,Беларусь,Рэспубліка Беларусь,Belarusian Ruble,BYN,Belarusian,BY,BLR,112,375,Right,Belarusian|Russian,🇧🇾,ISO 3166-2:BY
+Belgium,Brussels,Kingdom of Belgium,België,Koninkrijk België,Euro,EUR,Belgian,BE,BEL,56,32,Right,Dutch|French|German,🇧🇪,ISO 3166-2:BE
+Belize,Belmopan,,,,Belize Dollar,BZD,Belizean,BZ,BLZ,84,501,Right,English,🇧🇿,ISO 3166-2:BZ
+Benin,Porto-Novo,Republic of Benin,Bénin,République du Bénin,West African CFA Franc,XOF,Beninese,BJ,BEN,204,229,Right,French,🇧🇯,ISO 3166-2:BJ
+Bhutan,Thimphu,Kingdom of Bhutan,འབྲུག་ཡུལ་,དཔལ་ལྡན་འབྲུག་པའི་རྒྱལ་ཁབ་,Ngultrum|Indian Rupee,BTN|INR,Bhutanese,BT,BTN,64,975,Left,Dzongkha,🇧🇹,ISO 3166-2:BT
+Bolivia,Sucre|La Paz,Plurinational State of Bolivia,,Estado Plurinacional de Bolivia,Boliviano,BOB,Bolivian,BO,BOL,68,591,Right,Spanish|Quechua|Aymara|Guarani,🇧🇴,ISO 3166-2:BO
+Bosnia and Herzegovina,Sarajevo,,Bosna i Hercegovina,,Convertible Mark,BAM,Bosnian|Herzegovinian,BA,BIH,70,387,Right,Bosnian|Serbian|Croatian,🇧🇦,ISO 3166-2:BA
+Botswana,Gaborone,Republic of Botswana,,Lefatshe la Botswana,Pula,BWP,Motswana|Batswana,BW,BWA,72,267,Left,Setswana|English,🇧🇼,ISO 3166-2:BW
+Brazil,Brasilia,Federative Republic of Brazil,Brasil,República Federativa do Brasil,Real,BRL,Brazilian,BR,BRA,76,55,Right,Porguguese,🇧🇷,ISO 3166-2:BR
+Brunei,Bandar Seri Begawan,"Nation of Brunei, the Abode of Peace",Brunei Darussalam,Negara Brunei Darussalam,Brunei Dollar,BND,Bruneian,BN,BRN,96,673,Left,Malay|English,🇧🇳,ISO 3166-2:BN
+Bulgaria,Sofia,Republic of Bulgaria,България,Република България,Lev,BGN,Bulgarian,BG,BGR,100,359,Right,Bulgarian,🇧🇬,ISO 3166-2:BG
+Burkina Faso,Ouagadougou,,,,West African CFA Franc,XOF,Burkinabé|Burkinabè|Burkinese,BF,BFA,854,226,Right,French,🇧🇫,ISO 3166-2:BF
+Burundi,Gitega|Bujumbura,Republic of Burundi,,Repubulika y’Uburundi,Burundian Franc,BIF,Burundian,BI,BDI,108,257,Right,Kirundi|French|English,🇧🇮,ISO 3166-2:BI
+Cambodia,Phnom Penh,Kingdom of Cambodia,កម្ពុជា,ព្រះរាជាណាចក្រកម្ពុជា,Riel,KHR,Cambodian|Khmer,KH,KHM,116,855,Right,Khmer,🇰🇭,ISO 3166-2:KH
+Cameroon,Yaoundé,Republic of Cameroon,Cameroun,République du Cameroun,Central African CFA Franc,XAF,Cameroonian,CM,CMR,120,237,Right,French|English,🇨🇲,ISO 3166-2:CM
+Canada,Ottawa,,,,Canadian Dollar,CAD,Canadian,CA,CAN,124,1,Right,English|French,🇨🇦,ISO 3166-2:CA
+Cape Verde,Praia,Republic of Cabo Verde,Cabo Verde,República de Cabo Verde,Cape Verdean Escudo,CVE,Cape Verdean|Cabo Verdan,CV,CPV,132,238,Right,Portuguese|Creole,🇨🇻,ISO 3166-2:CV
+Central African Republic,Bangui,,République centrafricaine,,Central African CFA Franc,XAF,Central African,CF,CAF,140,236,Right,French|Sango,🇨🇫,ISO 3166-2:CF
+Chad,N’Djamena,Republic of Chad,تشاد,جمهورية تشاد,Central African CFA Franc,XAF,Chadian,TD,TCD,148,235,Right,Arabic|French,🇹🇩,ISO 3166-2:TD
+Chile,Santiago,Republic of Chile,,República de Chile,Chilean Peso,CLP,Chilean,CL,CHL,152,56,Right,Spanish,🇨🇱,ISO 3166-2:CL
+China,Beijing,People's Republic of China,中国,中华人民共和国,Renminbi,CNY,Chinese,CN,CHN,156,86,Right,Chinese,🇨🇳,ISO 3166-2:CN
+Colombia,Bogotá,Republic of Colombia,,República de Colombia,Colombian Peso,COP,Colombian,CO,COL,170,57,Right,Spanish,🇨🇴,ISO 3166-2:CO
+Comoros,Moroni,Union of the Comoros,,Umoja wa Komori ,Comorian Franc,KMF,Comorian,KM,COM,174,269,Right,Comorian|French|Arabic,🇰🇲,ISO 3166-2:KM
+Costa Rica,San José,Republic of Costa Rica,,República de Costa Rica,Costa Rican Colón,CRC,Costa Rican,CR,CRI,188,506,Right,Spanish,🇨🇷,ISO 3166-2:CR
+Croatia,Zagreb,Republic of Croatia,Hrvatska,Republika Hrvatska,Croatian Kuna,HRK,Croatian,HR,HRV,191,385,Right,Croatian,🇭🇷,ISO 3166-2:HR
+Cuba,Havana,Republic of Cuba,,República de Cuba,Cuban Peso,CUP,Cuban,CU,CUB,192,53,Right,Spanish,🇨🇺,ISO 3166-2:CU
+Cyprus,Nicosia,Republic of Cyprus,Κύπρος,Κυπριακή Δημοκρατία,Euro,EUR,Cypriot,CY,CYP,196,357,Left,Greek|Turkish,🇨🇾,ISO 3166-2:CY
+Czechia,Prague,Czech Republic,Česko,Česká republika ,Czech Koruna,CZK,Czech,CZ,CZE,203,420,Right,Czech,🇨🇿,ISO 3166-2:CZ
+Democratic Republic of the Congo,Kinshasa,,République démocratique du Congo,,Congolese Franc,CDF,Congolese,CD,COD,180,243,Right,French|Kikongo|Lingala|Swahili|Tshiluba,🇨🇩,ISO 3166-2:CD
+Denmark,Copenhagen,Danmark,,,Danish Krone,DKK,Danish|Dane,DK,DNK,208,45,Right,Danish|German,🇩🇰,ISO 3166-2:DK
+Djibouti,Djibouti,Republic of Djibouti,,République de Djibouti,Djiboutian Franc,DJF,Djiboutian,DJ,DJI,262,253,Right,French|Arabic|Somali|Afar,🇩🇯,ISO 3166-2:DJ
+Dominica,Roseau,Commonwealth of Dominica,Dominique,Commonwealth de la Dominique,East Caribbean Dollar,XCD,Dominican,DM,DMA,212,+1-767,Left,English|Dominican Creole|French,🇩🇲,ISO 3166-2:DM
+Dominican Republic,Santo Domingo,,República Dominicana,,Dominican Peso,DOP,Dominican|Quisqueyan,DO,DOM,214,+1-809|+1-829|+1-849,Right,Spanish,🇩🇴,ISO 3166-2:DO
+Ecuador,Quito,Republic of Ecuador,,República del Ecuador,United States Dollar,USD,Ecuadorian,EC,ECU,218,593,Right,Spanish|Quechua,🇪🇨,ISO 3166-2:EC
+Egypt,Cairo,Arab Republic of Egypt,مِصر,جمهورية مصر العربية,Egyptian Pound,EGP,Egyptian,EG,EGY,818,20,Right,Arabic,🇪🇬,ISO 3166-2:EG
+El Salvador,San Salvador,Republic of El Salvador,,República de El Salvador,United States Dollar|Bitcoin,USD|BTC,Salvadoran|Salvadorian|Salvadorean,SV,SLV,222,503,Right,Spanish,🇸🇻,ISO 3166-2:SV
+Equatorial Guinea,Malabo,Republic of Equatorial Guinea,Guinea Ecuatorial,República de Guinea Ecuatorial,Central African CFA Franc,XAF,Equatoguinean,GQ,GNQ,226,240,Right,Spanish|French|Portuguese,🇬🇶,ISO 3166-2:GQ
+Eritrea,Asmara,State of Eritrea,ኤርትራ,ሃገረ ኤርትራ,Nakfa,ERN,Eritrean,ER,ERI,232,291,Right,Tigrinya|Beja|Tigre|Kunama|Saho|Bilen|Nara|Afar,🇪🇷,ISO 3166-2:ER
+Estonia,Tallinn,Republic of Estonia,Eesti,Eesti Vabariik,Euro,EUR,Estonian,EE,EST,233,372,Right,Estonian,🇪🇪,ISO 3166-2:EE
+Eswatini,Mbabane|Lobamba,Kingdom of Eswatini,eSwatini,Umbuso weSwatini,Lilangeni|South African Rand,ZAR,Emaswati|Liswati,SZ,SWZ,748,268,Left,Swazi|English,🇸🇿,ISO 3166-2:SZ
+Ethiopia,Addis Ababa,Federal Democratic Republic of Ethiopia,ኢትዮጵያ,የኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ,Birr,ETB,Ethiopian,ET,ETH,231,251,Right,Amharic|Omoro|Somali|Afar|Tigrinya,🇪🇹,ISO 3166-2:ET
+Fiji,Suva,Republic of Fiji,Viti,Matanitu Tugalala o Viti,Fijian Dollar,FJD,Fijian,FJ,FJI,242,679,Left,Fijian|English|Hindi,🇫🇯,ISO 3166-2:FJ
+Finland,Helsinki,Republic of Finland,Suomi,Suomen tasavalta,Euro,EUR,Finnish|Finn,FI,FIN,246,358,Right,Finnish|Swedish,🇫🇮,ISO 3166-2:FI
+France,Paris,French Republic,,République française,Euro,EUR,French,FR,FRA,250,33,Right,French,🇫🇷,ISO 3166-2:FR
+Gabon,Libreville,Gabonese Republic,,République gabonaise,Central African CFA Franc,XAF,Gabonese|Gabonaise,GA,GAB,266,241,Right,French,🇬🇦,ISO 3166-2:GA
+Gambia,Banjul,Republic of The Gambia,,,Dalasi,GMD,Gambian,GM,GMB,270,220,Right,English,🇬🇲,ISO 3166-2:GM
+Georgia,Tbilisi,Republic of Georgia,საქართველო,საქართველოს დემოკრატიული რესპუბლიკა,Georgian Lari,GEL,Georgian,GE,GEO,268,995,Right,Georgian|Abkhaz,🇬🇪,ISO 3166-2:GE
+Germany,Berlin,Federal Republic of Germany,Deutschland,Bundesrepublik Deutschland,Euro,EUR,German,DE,DEU,276,49,Right,German,🇩🇪,ISO 3166-2:DE
+Ghana,Accra,Republic of Ghana,,,Cedi,GHS,Ghanaian,GH,GHA,288,233,Right,English,🇬🇭,ISO 3166-2:GH
+Greece,Athens,Hellenic Republic,Ελλάδα,Ελληνική Δημοκρατία,Euro,EUR,Greek,GR,GRC,300,30,Right,Greek,🇬🇷,ISO 3166-2:GR
+Grenada,St. George’s,,Gwenad,,East Caribbean Dollar,XCD,Grenadian,GD,GRD,308,+1-473,Left,English,🇬🇩,ISO 3166-2:GD
+Guatemala,Guatemala City,Republic of Guatemala,,República de Guatemala,Quetzal,GTQ,Guatemalan,GT,GTM,320,502,Right,Spanish,🇬🇹,ISO 3166-2:GT
+Guinea,Conakry,Republic of Guinea,Guinée,République de Guinée,Guinean Franc,GNF,Guinean,GN,GIN,324,224,Right,French,🇬🇳,ISO 3166-2:GN
+Guinea-Bissau,Bissau,Republic of Guinea-Bissau,Guiné-Bissau,República da Guiné-Bissau,West African CFA Franc,XOF,Bissau-Guinean,GW,GNB,624,245,Right,Portuguese,🇬🇼,ISO 3166-2:GW
+Guyana,Georgetown,Co-operative Republic of Guyana,,,Guyanese Dollar,GYD,Guyanese,GY,GUY,328,592,Left,English,🇬🇾,ISO 3166-2:GY
+Haiti,Port-au-Prince,Republic of Haiti,Haïti,République d'Haïti,Gourde,HTG,Haitian,HT,HTI,332,509,Right,French|Creole,🇭🇹,ISO 3166-2:HT
+Honduras,Tegucigalpa,Republic of Honduras,,República de Honduras,Lempira,HNL,Honduran|Catracho,HN,HND,340,504,Right,Spanish,🇭🇳,ISO 3166-2:HN
+Hungary,Budapest,Republic of Hungary,Magyarország,Magyar Koztarsasag,Forint,HUF,Hungarian,HU,HUN,348,36,Right,Hungarian,🇭🇺,ISO 3166-2:HU
+Iceland,Reykjavík,Republic of Iceland,Ísland,Lýðveldið Ísland,Icelandic Krona,ISK,Icelander|Icelandic,IS,ISL,352,354,Right,Icelandic,🇮🇸,ISO 3166-2:IS
+India,New Delhi,Republic of India,भारत,भारत गणराज्य,Indian Rupee,INR,Indian,IN,IND,356,91,Left,Hindi|English,🇮🇳,ISO 3166-2:IN
+Indonesia,Jakarta,Republic of Indonesia,,Republik Indonesia,Indonesian Rupiah,IDR,Indonesian,ID,IDN,360,62,Left,Indonesian,🇮🇩,ISO 3166-2:ID
+Iran,Tehran,Islamic Republic of Iran,ایران,جمهوری اسلامی ایران,Iranian Rial,IRR,Iranian,IR,IRN,364,98,Right,Persian,🇮🇷,ISO 3166-2:IR
+Iraq,Baghdad,Republic of Iraq,الْعِرَاق,جمهورية العراق,Iraqi Dinar,IQD,Iraqi,IQ,IRQ,368,964,Right,Arabic|Kurdish,🇮🇶,ISO 3166-2:IQ
+Ireland,Dublin,Republic of Ireland,Éire,Poblacht na hÉireann,Euro,EUR,Irish,IE,IRL,372,353,Left,Irish|English,🇮🇪,ISO 3166-2:IE
+Israel,Jerusalem,State of Israel,יִשְׂרָאֵל,מְדִינַת יִשְׂרָאֵל,New Shekel,ILS,Israeli,IL,ISR,376,972,Right,Hebrew|Arabic,🇮🇱,ISO 3166-2:IL
+Italy,Rome,Republic of Italy,Italia,Repubblica Italiana,Euro,EUR,Italian,IT,ITA,380,39,Right,Italian,🇮🇹,ISO 3166-2:IT
+Ivory Coast,Yamoussoukro|Abidjan,Republic of Côte d'Ivoire,Côte d'Ivoire,République de Côte d'Ivoire,West African CFA Franc,XOF,Ivorian,CI,CIV,384,225,Right,French,🇨🇮,ISO 3166-2:CI
+Jamaica,Kingston,,Jumieka,,Jamaican Dollar,JMD,Jamaican,JM,JAM,388,+1-876,Left,English|Jamaican Patois,🇯🇲,ISO 3166-2:JM
+Japan,Tokyo,,日本,日本国,Japanese Yen,JPY,Japanese,JP,JPN,392,81,Left,Japanese,🇯🇵,ISO 3166-2:JP
+Jordan,Amman,Hashemite Kingdom of Jordan,الأردن,المملكة الأردنية الهاشمية,Jordanian Dinar,JOD,Jordanian,JO,JOR,400,962,Right,Arabic,🇯🇴,ISO 3166-2:JO
+Kazakhstan,Nur-Sultan,Republic of Kazakhstan,Казақстан,Қазақстан Республикасы,Tenge,KZT,Kazakhstani,KZ,KAZ,398,+7-6|+7-7,Right,Kazakh|Russian,🇰🇿,ISO 3166-2:KZ
+Kenya,Nairobi,Republic of Kenya,,Jamhuri ya Kenya,Kenyan Shilling,KES,Kenyan,KE,KEN,404,254,Left,Swahili|English,🇰🇪,ISO 3166-2:KE
+Kiribati,South Tarawa,Republic of Kiribati,,Ribaberiki Kiribati,Australian Dollar,AUD,I-Kiribati,KI,KIR,296,686,Left,English|Gilbertese,🇰🇮,ISO 3166-2:KI
+Kuwait,Kuwait City,State of Kuwait,الكويت,دولة الكويت,Kuwaiti Dinar,KWD,Kuwaiti,KW,KWT,414,965,Right,Arabic,🇰🇼,ISO 3166-2:KW
+Kyrgyzstan,Bishkek,Kyrgyz Republic,Кыргызстан,Кыргыз Республикасы,Kyrgyzstani Som,KGS,Kyrgyz,KG,KGZ,417,996,Right,Kyrgyz|Russian,🇰🇬,ISO 3166-2:KG
+Laos,Vientiane,Lao People's Democratic Republic,ປະເທດລາວ,ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ,Kip,LAK,Lao|Laotian,LA,LAO,418,856,Right,Lao,🇱🇦,ISO 3166-2:LA
+Latvia,Riga,Republic of Latvia,Latvija,Latvijas Republika,Euro,EUR,Latvian,LV,LVA,428,371,Right,Latvian,🇱🇻,ISO 3166-2:LV
+Lebanon,Beirut,Republic of Lebanon,لُبْنَان,ٱلْجُمْهُورِيَّةُ ٱللُّبْنَانِيَّةُ,Lebanese Pound,LBP,Lebanese,LB,LBN,422,961,Right,Arabic|French,🇱🇧,ISO 3166-2:LB
+Lesotho,Maseru,Kingdom of Lesotho,,Naha ea Lesotho,Loti|South African Rand,LSL|ZAR,Mosotho|Basotho,LS,LSO,426,266,Left,Sesotho|English,🇱🇸,ISO 3166-2:LS
+Liberia,Monrovia,Republic of Liberia,,,Liberian Dollar,LRD,Liberian,LR,LBR,430,231,Right,English,🇱🇷,ISO 3166-2:LR
+Libya,Tripoli,State of Libya,ليبيا,دولة ليبيا,Libyan Dinar,LYD,Libyan,LY,LBY,434,218,Right,Arabic,🇱🇾,ISO 3166-2:LY
+Liechtenstein,Vaduz,Principality of Liechtenstein,,Fürstentum Liechtenstein,Swiss Franc,CHF,Liechtensteiner,LI,LIE,438,423,Right,German,🇱🇮,ISO 3166-2:LI
+Lithuania,Vilnius,Republic of Lithuania,Lietuva,Lietuvos Respublika,Euro,EUR,Lithuanian,LT,LTU,440,370,Right,Lithuanian,🇱🇹,ISO 3166-2:LT
+Luxembourg,Luxembourg City,Grand Duchy of Luxembourg,Lëtzebuerg,Groussherzogtum Lëtzebuerg​,Euro,EUR,Luxembourger,LU,LUX,442,352,Right,Luxembourgish|French|German,🇱🇺,ISO 3166-2:LU
+Madagascar,Antanarivo,Republic of Madagascar,Madagasikara,Repoblikan'i Madagasikara,Ariary,MGA,Malagasy,MG,MDG,450,261,Right,Malagasy|French,🇲🇬,ISO 3166-2:MG
+Malawi,Lilongwe,Republic of Malawi,Malaŵi,Dziko la Malaŵi,Malawian Kwacha,MWK,Malawian,MW,MWI,454,265,Left,English|Chewa,🇲🇼,ISO 3166-2:MW
+Malaysia,Kuala Lumpur|Putrajaya,,,,Ringgit,MYR,Malaysian,MY,MYS,458,60,Left,Malay|English,🇲🇾,ISO 3166-2:MY
+Maldives,Malé,Republic of Maldives,ދިވެހިރާއްޖެ,ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ,Maldivian Rufiyaa|United States Dollar,MVR|USD,Maldivian,MV,MDV,462,960,Left,Dhivehi|English|Arabic,🇲🇻,ISO 3166-2:MV
+Mali,Bamako,Republic of Mali,,République du Mali,West African CFA Franc,XOF,Malian,ML,MLI,466,223,Right,French,🇲🇱,ISO 3166-2:ML
+Malta,Valletta,Republic of Malta,,Repubblika ta’ Malta,Euro,EUR,Maltese,MT,MLT,470,356,Left,Maltese|English,🇲🇹,ISO 3166-2:MT
+Marshall Islands,Majuro,Republic of the Marshall Islands,Ṃajeḷ,Aolepān Aorōkin Ṃajeḷ,United States Dollar,USD,Marshallese,MH,MHL,584,692,Right,Marshallese|English,🇲🇭,ISO 3166-2:MH
+Mauritius,Port Louis,Republic of Mauritius,Maurice,République de Maurice,Mauritian Rupee,MUR,Mauritian,MU,MUS,480,230,Left,French|English,🇲🇺,ISO 3166-2:MU
+Mexico,Mexico City,United Mexican States,México,Estados Unidos Mexicanos ,Mexican Peso,MXN,Mexican,MX,MEX,484,52,Right,Spanish,🇲🇽,ISO 3166-2:MX
+Micronesia,Palikir,Federated States of Micronesia,,,United States Dollar,USD,Micronesian,FM,FSM,583,691,Right,English,🇫🇲,ISO 3166-2:FM
+Moldova,Chișinău,Republic of Moldova,,Republica Moldova,Moldovan Leu,MDL,Moldovan,MD,MDA,498,373,Right,Romanian,🇲🇩,ISO 3166-2:MD
+Monaco,Monaco,Principality of Monaco,,Principauté de Monaco,Euro,EUR,Monégasque|Monacan,MC,MCO,492,377,Right,French,🇲🇨,ISO 3166-2:MC
+Mongolia,Ulaanbaatar,,Монгол Улс,,Tögrög,MNT,Mongolian,MN,MNG,496,976,Right,Mongolian,🇲🇳,ISO 3166-2:MN
+Montenegro,Podgorica,,Црна Гора,,Euro,EUR,Montenegrin,ME,MNE,499,382,Right,Montenegrin|Serbian|Albanian|Bosnian|Croatian,🇲🇪,ISO 3166-2:ME
+Morocco,Rabat,Kingdom of Morocco,المغريب,المملكة المغربية,Moroccan Dirham,MAD,Moroccan,MA,MAR,504,212,Right,Arabic|Berber,🇲🇦,ISO 3166-2:MA
+Mozambique,Maputo,Republic of Mozambique,Moçambique,República de Moçambique,Metical,MZN,Mozambican,MZ,MOZ,508,258,Left,Portuguese|Tsonga|Mwani|Chewa|Swahili,🇲🇿,ISO 3166-2:MZ
+Myanmar,Naypyidaw,Republic of the Union of Myanmar,မြန်မာနိုင်ငံ,ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်‌,Kyat,MMK,Burmese,MM,MMR,104,95,Right,Burmese,🇲🇲,ISO 3166-2:MM
+Namibia,Windhoek,Republic of Namibia,,,Namibian Dollar|South African Rand,NAD|ZAR,Namibian,NA,NAM,516,264,Left,English|Afrikaans|German|Otjiherero|Khoekhoegowab,🇳🇦,ISO 3166-2:NA
+Nauru,Yaren,Republic of Nauru,Naoero,Repubrikin Naoero,Australian Dollar,AUD,Nauruan,NR,NRU,520,674,Left,Nauruan|English,🇳🇷,ISO 3166-2:NR
+Nepal,Kathmandu,Federal Democratic Republic of Nepal,नेपाल,सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल,Nepalese Rupee,NPR,Nepali|Nepalese,NP,NPL,524,977,Left,Nepali,🇳🇵,ISO 3166-2:NP
+Netherlands,Amsterdam,Kingdom of the Netherlands,Nederland,Koninkrijk der Nederlanden,Euro|United States Dollar,EUR|USD,Dutch,NL,NLD,528,+31|+599,Right,Dutch,🇳🇱,ISO 3166-2:NL
+New Zealand,Auckland,,Aotearoa,,New Zealand Dollar,NZD,Kiwi|New Zealander,NZ,NZL,554,64,Left,English|Māori|NZ Sign Language,🇳🇿,ISO 3166-2:NZ
+Nicaragua,Managua,Republic of Nicaragua,,República de Nicaragua,Córdoba,NIO,Nicaraguan|Pinolero,NI,NIC,558,505,Right,Spanish,🇳🇮,ISO 3166-2:NI
+Niger,Niamey,Republic of the Niger,,République du Niger,West African CFA Franc,XOF,Nigerien,NE,NER,562,227,Right,French,🇳🇪,ISO 3166-2:NE
+Nigeria,Abuja,Federal Republic of Nigeria,,,Naira,NGN,Nigerian,NG,NGA,566,234,Right,English|Hausa|Igbo|Yoruba,🇳🇬,ISO 3166-2:NG
+North Korea,Pyongyang,Democratic People’s Republic of Korea,조선,조선민주주의인민공화국,Korean People’s Won,KPW,North Korean|Korean,KP,PRK,408,850,Right,Korean,🇰🇵,ISO 3166-2:KP
+North Macedonia,Skopje,Republic of North Macedonia,Македонија,Република Северна Македонија,Macedonian Denar,MKD,Macedonian,MK,MKD,807,389,Right,Macedonian|Albanian,🇲🇰,ISO 3166-2:MK
+Norway,Oslo,Kingdom of Norway,Norge,Kongeriket Norge,Norwegian Krone,NOK,Norwegian,NO,NOR,578,47,Right,Norwegian|Sámi,🇳🇴,ISO 3166-2:NO
+Oman,Muscat,Sultanate of Oman,عُمَان,سلْطنةُ عُمان,Omani Rial,OMR,Omani,OM,OMN,512,968,Right,Arabic,🇴🇲,ISO 3166-2:OM
+Pakistan,Islamabad,Islamic Republic of Pakistan,پاکستان,اِسلامی جمہوریہ پاكِستان,Pakistani Rupee,PKR,Pakistani,PK,PAK,586,92,Left,Urdu|English,🇵🇰,ISO 3166-2:PK
+Palau,Ngerulmud,Republic of Palau,Belau,Beluu er a Belau,United States Dollar,USD,Palauan,PW,PLW,585,680,Right,Palauan|English,🇵🇼,ISO 3166-2:PW
+Palestine,Jerusalem,State of Palestine,فلسطين,دولة فلسطين,Egyptian Pound|Israeli New Shekel|Jordanian Dinar,EGP|ILS|JOD,Palestinian,PS,PSE,275,970,Right,Arabic,🇵🇸,ISO 3166-2:PS
+Panama,Panama City,Republic of Panama,Panamá,República de Panamá,Balboa|United States Dollar,PAB|USD,Panamanian,PA,PAN,591,570,Right,Spanish,🇵🇦,ISO 3166-2:PA
+Papua New Guinea,Port Moresby,Independent State of Papua New Guinea,Papua Niugini,Independen Stet bilong Papua Niugini,Kina,PGK,Papua New Guinean,PG,PNG,598,675,Left,English|Tok Pisin|Hiri Motu|PNG Sign Language,🇵🇬,ISO 3166-2:PG
+Paraguay,Ascunción,Republic of Paraguay,,República del Paraguay,Guarani,PYG,Paraguayan,PY,PRY,600,595,Right,Spanish|Guarani,🇵🇾,ISO 3166-2:PY
+Peru,Lima,Republic of Peru,Perú,República de Perú,Sol,PEN,Peruvian,PE,PER,604,51,Right,Spanish|Quechua|Aymara,🇵🇪,ISO 3166-2:PE
+Philippines,Manilla,Republic of the Philippines,Pilipinas,Republika ng Pilipinas,Philippine Peso,PHP,Filipino|Pinoy,PH,PHL,608,63,Right,Filipino|English,🇵🇭,ISO 3166-2:PH
+Poland,Warsaw,Republic of Poland,Polska,Rzeczpospolita Polska,Złoty,PLN,Polish|Pole,PL,POL,616,48,Right,Polish,🇵🇱,ISO 3166-2:PL
+Portugal,Lisbon,Portuguese Republic,,República Portuguesa,Euro,EUR,Portuguese,PT,PRT,620,351,Right,Portuguese,🇵🇹,ISO 3166-2:PT
+Qatar,Doha,State of Qatar,قطر,دولة قطر,Qatari Riyal,QAR,Qatari,QA,QAT,634,974,Right,Arabic|English,🇶🇦,ISO 3166-2:QA
+Republic of the Congo,Brazzaville,,République du Congo,,Central African CFA Franc,XAF,Congolese,CG,COG,178,242,Right,French|Kituba|Lingala,🇨🇬,ISO 3166-2:CG
+Romania,Bucharest,,România,,Romanian Leu,RON,Romanian,RO,ROU,642,40,Right,Romanian,🇷🇴,ISO 3166-2:RO
+Russia,Moscow,Russian Federation,Россия,Российская Федерация,Russian Ruble,RUB,Russian,RU,RUS,643,7,Right,Russian,🇷🇺,ISO 3166-2:RU
+Rwanda,Kigali,Republic of Rwanda,,Repubulika y'u Rwanda,Rwandan Franc,RWF,Rwandan,RW,RWA,646,250,Right,Kinyarwanda|French|English|Swahili,🇷🇼,ISO 3166-2:RW
+Saint Kitts and Nevis,Basseterre,Federation of Saint Christopher and Nevis,,,East Caribbean Dollar,XCD,Kittitian|Nevisian,KN,KNA,659,+1-869,Left,English|Creole,🇰🇳,ISO 3166-2:KN
+Saint Lucia,Castries,,,,East Caribbean Dollar,XCD,Saint Lucian,LC,LCA,662,+1-758,Left,English|Creole,🇱🇨,ISO 3166-2:LC
+Saint Vincent and the Grenadines,Kingstown,,,,East Caribbean Dollar,XCD,Vincentian|Saint Vencentian,VC,VCT,670,+1-784,Left,English|Creole,🇻🇨,ISO 3166-2:VC
+Samoa,Apia,Independent State of Samoa,Sāmoa,Malo Saʻoloto Tutoʻatasi o Sāmoa,Tālā,WST,Samoan,WS,WSM,882,685,Left,Samoan|English,🇼🇸,ISO 3166-2:WS
+San Marino,San Marino,Republic of San Marino,,Repubblica di San Marino,Euro,EUR,Sammarinese,SM,SMR,674,378,Right,Italian|Romagnol,🇸🇲,ISO 3166-2:SM
+São Tomé and Príncipe,São Tomé,Democratic Republic of São Tomé and Príncipe,São Tomé e Príncipe,República Democrática de São Tomé e Príncipe,Dobra,STN,São Toméan|Santomean,ST,STP,678,239,Right,Portuguese,🇸🇹,ISO 3166-2:ST
+Saudi Arabia,Riyadh,Kingdom of Saudi Arabia,السعودية,المملكة العربية السعودية,Saudi Riyal,SAR,Saudi|Saudi Arabian,SA,SAU,682,966,Right,Arabic,🇸🇦,ISO 3166-2:SA
+Senegal,Dakar,Republic of Senegal,Sénégal,République du Sénégal,West African CFA Franc,XOF,Senegalese,SN,SEN,686,221,Right,French,🇸🇳,ISO 3166-2:SN
+Serbia,Belgrade,Republic of Serbia,Србија,Република Србија,Serbian Dinar,RSD,Serbian,RS,SRB,688,381,Right,Serbian,🇷🇸,ISO 3166-2:RS
+Seychelles,Victoria,Republic of Seychelles,,République des Seychelles,Seychellois Rupee,SCR,Seychellois|Seselwa,SC,SYC,690,248,Left,English|French|Seychellois,🇸🇨,ISO 3166-2:SC
+Sierra Leone,Freetown,Republic of Sierra Leone,,,Leone,SLL,Sierra Leonean,SL,SLE,694,232,Right,English|Krio,🇸🇱,ISO 3166-2:SL
+Singapore,Singapore,Republic of Singapore,新加坡,新加坡共和国,Singapore Dollar,SGD,Singaporean,SG,SGP,702,65,Left,English|Mandarin|Malay|Tamil,🇸🇬,ISO 3166-2:SG
+Slovakia,Bratoslava,Slovak Republic,Slovensko,Slovenská republika,Euro,EUR,Slovak,SK,SVK,703,421,Right,Slovak,🇸🇰,ISO 3166-2:SK
+Slovenia,Ljubljana,Republic of Slovenia,Slovenija,Republika Slovenija,Euro,EUR,Slovene|Slovenian,SI,SVN,705,386,Right,Slovene,🇸🇮,ISO 3166-2:SI
+Solomon Islands,Honiara,,,,Solomon Islands Dollar,SBD,Solomon Islander,SB,SLB,90,677,Left,English,🇸🇧,ISO 3166-2:SB
+Somalia,Mogadishu,Federal Republic of Somalia,Soomaaliya,Jamhuuriyadda Federaalka Soomaaliya,Somali Shilling,SOS,Somali|Somalian,SO,SOM,706,252,Right,Somali|Arabic|English|Italian,🇸🇴,ISO 3166-2:SO
+South Africa,Pretoria|Cape Town|Bloemfontein,Republic of South Africa,iNingizimu Afrika,iRiphabhuliki yaseNingizimu Afrika,South African Rand,ZAR,South African,ZA,ZAF,710,27,Left,English|Zulu|Swazi|Afrikaans|Sepedi|Sesotho|Setswana|Xitsonga|Xhosa|Tshivenda|isiNdebele,🇿🇦,ISO 3166-2:ZA
+South Korea,Seoul,Republic of Korea,한국,대한민국,Korean Republic Won,KRW,South Korean|Korean,KR,KOR,410,82,Right,Korean|Korean Sign Language,🇰🇷,ISO 3166-2:KR
+South Sudan,Juba,Republic of South Sudan,,,South Sudanese Pound,SSP,South Sudanese,SS,SSD,737,211,Right,English,🇸🇸,ISO 3166-2:SS
+Spain,Madrid,Kingdom of Spain,España,Reino de España,Euro,EUR,Spanish|Spaniard,ES,ESP,724,34,Right,Spanish,🇪🇸,ISO 3166-2:ES
+Sri Lanka,Sri Jayawardenepura Kotte|Colombo,Democratic Socialist Republic of Sri Lanka,ශ්‍රී ලංකාව,ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය,Sri Lankan Rupee,LKR,Sri Lankan,LK,LKA,144,94,Left,Sinhala|Tamil,🇱🇰,ISO 3166-2:LK
+Sudan,Khartoum,Republic of the Sudan,السودان,جمهورية السودان,Sudanese Pound,SDG,Sudanese,SD,SDN,736,249,Right,Arabic|English,🇸🇩,ISO 3166-2:SD
+Suriname,Paramaribo,Republic of Suriname,,Republiek Suriname,Surinamese Dollar,SRD,Surinamese,SR,SUR,740,597,Left,Dutch|Sranan Tongo,🇸🇷,ISO 3166-2:SR
+Sweden,Stockholm,Kingdom of Sweden,Sverige,Konungariket Sverige,Swedish Krona,SEK,Swedish|Swede,SE,SWE,752,46,Right,Swedish,🇸🇪,ISO 3166-2:SE
+Switzerland,Bern,Swiss Confederation,Schweiz,Schweizerische Eidgenossenschaft,Swiss Franc,CHF,Swiss,CH,CHE,756,41,Right,German|French|Italian|Romansh,🇨🇭,ISO 3166-2:CH
+Syria,Damascus,Syrian Arab Republic,سُورِيَا,ٱلْجُمْهُورِيَّةُ ٱلْعَرَبِيَّةُ ٱلسُّورِيَّةُ,Syrian Pound,SYP,Syrian,SY,SYR,760,963,Right,Arabic,🇸🇾,ISO 3166-2:SY
+Taiwan,Taipei,Republic of China,臺灣,中華民國,New Taiwan Dollar,TWD,Taiwanese,TW,TWN,158,886,Right,Chinese,🇹🇼,ISO 3166-2:TW
+Tajikistan,Dushanbe,Republic of Tajikistan,Тоҷикистон,Ҷумҳурии Тоҷикистон,Somoni,TJS,Tajikistani|Tajik,TJ,TJK,762,992,Right,Tajik|Russian,🇹🇯,ISO 3166-2:TJ
+Tanzania,Dodoma,United Republic of Tanzania,,Jamhuri ya Muungano wa Tanzania,Tanzanian Shilling,TZS,Tanzanian,TZ,TZA,834,255,Left,Swahili|English,🇹🇿,ISO 3166-2:TZ
+Thailand,Bangkok,Kingdom of Thailand,ประเทศไทย,ราชอาณาจักรไทย,Baht,THB,Thai,TH,THA,764,66,Left,Thai,🇹🇭,ISO 3166-2:TH
+Timor-Leste,Dili,Democratic Republic of Timor-Leste,,República Democrática de Timor-Leste,United States Dollar,USD,East Timorese|Timorese}Maubere,TL,TLS,626,670,Left,Portuguese|Tetum,🇹🇱,ISO 3166-2:TL
+Togo,Lomé,Togolese Republic,,République togolaise,West African CFA Franc,XOF,Togolese,TG,TGO,768,228,Right,French|Ewe|Kabiye,🇹🇬,ISO 3166-2:TG
+Tonga,Nuku’alofa,Kingdom of Tonga,,Puleʻanga Fakatuʻi ʻo Tonga,Pa’anga,TOP,Tongan,TO,TON,776,676,Left,English|Tongan,🇹🇴,ISO 3166-2:TO
+Trinidad and Tobago,Port of Spain,Republic of Trinidad and Tobago,,,Trinidad and Tobago Dollar,TTD,Trinidadian and Tobagonian|Trinbagonian|Trini,TT,TTO,780,+1-868,Left,English,🇹🇹,ISO 3166-2:TT
+Tunisia,Tunis,Republic of Tunisia,تونس,الجمهورية التونسية,Tunisian Dinar,TND,Tunisian,TN,TUN,788,216,Right,Arabic|Berber|French,🇹🇳,ISO 3166-2:TN
+Türkiye,Ankara,Republic of Türkiye,,Türkiye Cumhuriyeti,Turkish Lira,TRY,Turkish|Turk,TR,TUR,792,90,Right,Turkish,🇹🇷,ISO 3166-2:TR
+Turkmenistan,Ashgabat,,Türkmenistan,,Turkmenistan Manat,TMT,Turkmenistani|Turkmen|Turkmenian,TM,TKM,795,993,Right,Turkmen|Russian,🇹🇲,ISO 3166-2:TM
+Tuvalu,Funafuti,,,,Tuvaluan Dollar|Australian Dollar,TVD|AUD,Tuvaluan,TV,TUV,798,688,Left,Tuvaluan|English,🇹🇻,ISO 3166-2:TV
+Uganda,Kampala,Republic of Uganda,,Jamhuri ya Uganda,Ugandan Shilling,UGX,Ugandan,UG,UGA,800,256,Left,English|Swahili,🇺🇬,ISO 3166-2:UG
+Ukraine,Kyiv,,Україна,,Hryvnia,UAH,Ukrainian,UA,UKR,804,380,Right,Ukrainian,🇺🇦,ISO 3166-2:UA
+United Arab Emirates,Abu Dhabi,,الإمارات العربية المتحدة,,UAE Dirham,AED,Emirati,AE,ARE,784,971,Right,Arabic|English,🇦🇪,ISO 3166-2:AE
+United Kingdom,London,United Kingdom of Great Britain and Northern Ireland,,,Pound Sterling,GBP,British|Briton,GB,GBR,826,44,Left,English,🇬🇧,ISO 3166-2:GB
+United States,Washington,United States of America,,,United States Dollar,USD,American,US,USA,840,1,Right,English,🇺🇸,ISO 3166-2:US
+Uruguay,Montevideo,Oriental Republic of the Uruguay,,República Oriental del Uruguay,Uruguayan Peso,UYU,Uruguayan,UY,URY,858,598,Right,Spanish,🇺🇾,ISO 3166-2:UY
+Uzbekistan,Tashkent,Republic of Uzbekistan,O’zbekiston,O’zbekiston Respublikasi,Uzbek Som,UZS,Uzbekistani|Uzbek,UZ,UZB,860,998,Right,Uzbek,🇺🇿,ISO 3166-2:UZ
+Vanuatu,Port Vila,Republic of Vanuatu,,Ripablik blong Vanuatu,Vatu,VUV,Ni-Vanuatu|Vanuatuan,VU,VUT,548,678,Right,Bislama|English|French,🇻🇺,ISO 3166-2:VU
+Vatican City,Vatican City,Vatican City State,Civitas Vaticana,Status Civitatis Vaticanae,Euro,EUR,Papal|Pontifical,VA,VAT,336,379,Right,Latin|Italian,🇻🇦,ISO 3166-2:VA
+Venezuela,Caracas,Bolivarian Republic of Venezuela,,República Bolivariana de Venezuela,Bolívar Digital,VED,Venezuelan,VE,VEN,862,58,Right,Spanish,🇻🇪,ISO 3166-2:VE
+Vietnam,Hanoi,Socialist Republic of Vietnam,Việt Nam,Cộng hòa Xã hội chủ nghĩa Việt Nam,Vietnamese đồng,VND,Vietnamese,VN,VNM,704,84,Right,Vietnamese,🇻🇳,ISO 3166-2:VN
+Yemen,Sanaa,Republic of Yemen,ٱلْيَمَن,ٱلْجُمْهُورِيَّةُ ٱلْيَمَنِيَّةُ,Yemeni Rial,YER,Yemeni|Yemenite,YE,YEM,887,967,Right,Arabic,🇾🇪,ISO 3166-2:YE
+Zambia,Lusaka,Republic of Zambia,,,Zambian Kwacha,ZMW,Zambian,ZM,ZMB,894,260,Left,English,🇿🇲,ISO 3166-2:ZM
+Zimbabwe,Harare,Republic of Zimbabwe,,Nyika yeZimbabwe,Zimbabwean Dollar|United States Dolar,ZWL|USD,Zimbabwean|Zimbo,ZW,ZWE,716,263,Left,Shona|Ndebele|Chewa|Chibarwe|Kalanga|Khoisan|Nambya|Ndau|Shangani|Sesotho|Tonga|Venda|Xhosa|English|Tswana,🇿🇼,ISO 3166-2:ZW
